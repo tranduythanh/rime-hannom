@@ -6,7 +6,7 @@ schema:
   name: 輸入法𡨸漢喃
   version: "0.10"
   author:
-    - Keepout2010 <Keepout2010@163.com>
+    - Trần Duy Thanh <fbtranduythanh@gmail.com>
   description: |
     輸入法𡨸漢喃、telex
   dependencies:
