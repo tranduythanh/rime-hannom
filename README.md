@@ -78,3 +78,7 @@ Example for a sentence
 
 ![](https://user-images.githubusercontent.com/6112723/140479621-ee2e52a5-27df-4115-a88f-ec4822513878.gif)
 
+## Các vấn đề khác (Others):
+
+Font: https://github.com/nomfoundation/font
+
