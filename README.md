@@ -34,3 +34,8 @@ Open the `default.yml` in folder `build`, then edit the schema list like this an
 Redeploy and Sync user data by clicking on these:
 
 <img width="403" alt="click" src="https://user-images.githubusercontent.com/6112723/140469634-559629df-6956-4dad-a692-5c11992aedba.png">
+
+## Demo
+
+![](https://user-images.githubusercontent.com/6112723/140479621-ee2e52a5-27df-4115-a88f-ec4822513878.gif)
+
